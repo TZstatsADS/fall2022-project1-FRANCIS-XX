@@ -1,6 +1,6 @@
 # Applied Data Science @ Columbia
 ## Fall 2022
-## Project 1: A "data story" on the history of philosophy
+## Project 1: Exploring the difference between schools of philosophy
 
 <img src="figs/100126-the-glass.jpeg" width="500">
 
@@ -9,10 +9,10 @@ This is the first and only *individual* (as opposed to *team*) project this seme
 
 Term: Fall 2022
 
-+ Projec title: Lorem ipsum dolor sit amet
-+ This project is conducted by [your name]
++ Projec title: Exploring the difference between schools of philosophy
++ This project is conducted by Jiapeng.Xu
 
-+ Project summary: [a short summary] Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
++ Project summary: For most people, philosophy maybe obscure and confusing. It usually takes lots of time to understand the overall conceptions between different schools of philosophy. However, taking advantage of this project, we can hand over this problem to our computer, solving this by NLP and machine learning. In this project, exploratory data analysis was first conducted to get some insights hidden in the dataset by visualizing. Then, according to the matrix of token counts, different schools of philosophy were clustered together to understand the similarity between them. In the last step, by using sentiment analysis classification, our algorithm acquired the ability to predict the corresponding school after seeing the sentence only.
 
 Following [suggestions](http://nicercode.github.io/blog/2013-04-05-projects/) by [RICH FITZJOHN](http://nicercode.github.io/about/#Team) (@richfitz). This folder is orgarnized as follows.
 
